@@ -71,13 +71,13 @@ console.log('-----------------------');
 //task_1
 let isAdult = true,
   hasID = false;
-console.log('Is adult and has ID:', isAdult && hasID == true);
+console.log('Is adult and has ID:', isAdult && hasID);
 console.log('-----------------------');
 
 //task_2
 let isMember = false,
   isGuest = true;
-console.log('Is member or is guest:', isMember || isGuest == true);
+console.log('Is member or is guest:', isMember || isGuest);
 console.log('-----------------------');
 
 //task_3
